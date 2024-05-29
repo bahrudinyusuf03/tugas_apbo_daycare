@@ -22,6 +22,28 @@ Mengelola data staf, mengelola data daycare, mengelola sistem.
 
 # Use Case
 ### Admin
+![admin](https://github.com/bahrudinyusuf03/tugas_apbo_daycare/blob/main/admin.jpg)
 ### Staff
+![staf](https://github.com/bahrudinyusuf03/tugas_apbo_daycare/blob/main/staff.jpg))
 ### Orang Tua/Wali
-![admin](https://github.com/bahrudinyusuf03/tugas_apbo_daycare/blob/main/Orang%20Tua.jpg)
+![orang tua](https://github.com/bahrudinyusuf03/tugas_apbo_daycare/blob/main/Orang%20Tua.jpg)
+
+# ERD
+![erd](https://github.com/bahrudinyusuf03/tugas_apbo_daycare/blob/main/ERD.jpg)
+
+# CLASS DIAGRAM
+![class diagram](https://github.com/bahrudinyusuf03/tugas_apbo_daycare/blob/main/Diagram.jpeg)
+
+# Kebutuhan Fungsional Sistem
+### Pengelolaan Data Anak
+- menambahkan, mengubah, menghapus data orang tua/wali
+### Pengelolaan Data Orang Tua/Wali
+- menambahkan, mengubah, menghapus data staf
+### Pengelolaan Data Staf
+- menambahkan, mengubah, menghapus data staf
+### Pengelolaan Jadwal
+- menambahkan, mengubah, menghapus jadwal kegiatan
+### Pengelolaan Kehadiran
+- mencatat dan memantau kehadiran anak
+### Pembuatan Laporan
+- membuat laporan perkembangan anak

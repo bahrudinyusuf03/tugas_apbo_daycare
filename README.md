@@ -21,6 +21,7 @@ Mengelola data anak, mengelola jadwal, mencatat kehadiran, membuat laporan.
 Mengelola data staf, mengelola data daycare, mengelola sistem.
 
 # Use Case
-## Admin
-## Staff
-## Orang Tua/Wali
+### Admin
+### Staff
+### Orang Tua/Wali
+![admin](https://github.com/bahrudinyusuf03/tugas_apbo_daycare/blob/main/Orang%20Tua.jpg)
